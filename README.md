@@ -1,25 +1,20 @@
-# PPDAC 
-
 ## Problem 
 
-The problem is capitalizing on market inefficiencies in crypto markets to generate alpha. The idea is that the efficient market hypothesis does not exist and therefore, it is possible to make abnormal profits. 
+Can I make a profitable trading algorithm? 
 
 ## Plan 
 
-- research efficient market hypoethesis
 - research technical indicators
-- research pinescript (Trading View) vs quantstrat/quantmod (R) vs Humming Bot 
+- research machine learning approaches
 
 ## Data 
 
-- literature research 
 - binance/yahoo/trading view pricing history 
 
 ## Analysis 
 
-- back test some strategies using technical indicators 
+- back test strategies that rely on technical indicators or machine learning
 
 ## Conclusion 
 
 - Can we generate alpha? 
-- Are cryptocurrency markets efficient? 
